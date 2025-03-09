@@ -33,7 +33,7 @@ public class Relational
         }
          else
         {
-            Console.WriteLine("The smallest number is: " + c);
+        Console.WriteLine("The smallest number is: " + c);
         }
     }
 }
