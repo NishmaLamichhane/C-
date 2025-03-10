@@ -13,7 +13,7 @@ public class Stringcheck{
             Console.WriteLine("The string 1 is smaller.");
         }
         else{
-            Console.Write("The string 2 is larger.");
+            Console.Write("The string 1 is larger.");
         }
 }
 }
