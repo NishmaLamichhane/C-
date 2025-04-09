@@ -1,5 +1,6 @@
 // Create a simple class named Person that contains basic information like name, age, gender, etc.. Your class should also 
 //contain function/method for storing and displaying code.
+// The class should be able to store the data and display it when required.
 using System;
 
 class Person
