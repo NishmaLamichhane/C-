@@ -21,6 +21,7 @@ public class Motorcycle:IVechicle{
         Console.WriteLine("This is motorcycle details");
     }
 }
+// main class
 class IProgram{
     static void Main(string[]args){
         Car c=new Car();
