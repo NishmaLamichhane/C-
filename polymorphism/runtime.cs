@@ -41,7 +41,6 @@ namespace PolymorphismExample
 
             myAnimal = new Cat();
             myAnimal.Speak(); // Output: The cat meows.
-
             Console.ReadLine();
         }
     }
