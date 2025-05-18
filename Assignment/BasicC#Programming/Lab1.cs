@@ -1,7 +1,7 @@
 //Basic C# pogramming
 //Write a program to calculate the area of circle using radios as input.
 using System;
-class Circle
+class CircleArea
 {
     static void Main(string[] args)
     {
