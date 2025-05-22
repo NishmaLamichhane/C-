@@ -15,8 +15,6 @@ class SwapIntegers
         b = Convert.ToInt32(Console.ReadLine());
 
         // Display the original values
-        
-
         // Console.WriteLine($"Before swapping: a = {a}, b = {b}");
         Console.WriteLine("Before swapping: a = " + a + ", b = " + b);
 
