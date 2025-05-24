@@ -1,3 +1,5 @@
+//// This code adds two matrices of the same size and prints the resultant matrix.
+// The code uses a 2D array to represent the matrices and performs element-wise addition.
 using System;
 
 class AdditionOfMatrices
